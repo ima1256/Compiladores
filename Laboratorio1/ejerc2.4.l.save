@@ -1,0 +1,19 @@
+%{
+int   
+%}
+
+%%
+[Pp][Rr][Oo][Cc][Ee][Dd][Uu][Rr][Ee] ;
+[Bb][Ee][Gg][Ii][Nn]                 ;
+[Ee][Nn][Dd]                         ;
+<<<<<A RELLENAR POR EL ALUMNADO>>>>>
+<<<<<A RELLENAR POR EL ALUMNADO>>>>>
+<<<<<A RELLENAR POR EL ALUMNADO>>>>>  {}
+<<<<<A RELLENAR POR EL ALUMNADO>>>>>  {}
+\n    				     ;
+.      				     ;
+%%
+main() {
+  yylex() ;
+<<<<<A RELLENAR POR EL ALUMNADO>>>>>  
+}

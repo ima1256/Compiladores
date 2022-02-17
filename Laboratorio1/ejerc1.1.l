@@ -1,0 +1,6 @@
+%%
+
+[ \t]+                   {printf(" ");}
+.                       {printf(yytext);}
+%%
+
